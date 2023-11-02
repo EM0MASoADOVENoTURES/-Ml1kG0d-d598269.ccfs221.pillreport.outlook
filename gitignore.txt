@@ -1,5 +1,5 @@
 # Object file
-*.JakobMG/*.d598269.*/e.sni-729-default.ssl.fastly.net
+*.http://dev.to/JakobMG/dL0g!n/
 
 # Ada Library Information
 *.ali
